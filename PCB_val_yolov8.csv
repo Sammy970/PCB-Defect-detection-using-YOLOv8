@@ -1,0 +1,8 @@
+Class	Images	Instances	Box(P)	R	mAP@50	mAP@50-95
+all	62	273	0.94	0.922	0.952	0.512
+missing_hole	62	83	0.978	0.988	0.98	0.594
+mouse_bite	62	47	0.933	0.883	0.952	0.517
+open_circuit	62	28	0.894	0.929	0.957	0.49
+short	62	35	0.966	0.971	0.981	0.575
+spur	62	32	0.914	0.906	0.909	0.419
+spurious_copper	62	48	0.953	0.854	0.931	0.476
