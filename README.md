@@ -17,4 +17,4 @@
 
 <img src="https://miro.medium.com/max/1400/1*siH5a3v-BGh5q8E48q6OVw.webp" width="270" height="250" />
 
-[Data](https://universe.roboflow.com/object-detection-dt-wzpc6/pcb-dataset-defect "My Medium Article")
+[Click here for Data](https://universe.roboflow.com/object-detection-dt-wzpc6/pcb-dataset-defect "My Medium Article")
