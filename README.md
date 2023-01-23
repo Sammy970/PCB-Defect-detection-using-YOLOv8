@@ -22,3 +22,6 @@
 I have uploaded all the data on ROBOFLOW, so its easier to just get that data into any format that we want.
 By clicking on the link above you can find the data.
 
+
+<img src="https://github.com/Sammy970/PCB-Defect-detection-using-YOLOv8/blob/main/1_fMd2X_QS9ZYzuz1-zaOJIw.png" width="950" height="200" />
+
