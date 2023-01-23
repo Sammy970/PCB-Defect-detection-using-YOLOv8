@@ -9,7 +9,7 @@
 
 <img src="https://miro.medium.com/max/1120/1*D22UnAkI_EX2qcQpDSWEEA.png" width="280" height="150" />
 
-[Click here for my Medium Article](https://www.google.com "My Medium Article")
+[Click here for my Medium Article](https://samyak970.medium.com/yolov8-training-on-custom-data-3460f922ce86 "My Medium Article")
 
 ***
 
